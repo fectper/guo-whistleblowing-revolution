@@ -30,11 +30,13 @@
 可能是视频做得实在太好了，影响实在太轰动了，不久后政事小哥在国内的家人便受到威胁。  
 迫于压力，政事小哥从此退出台前，他的 YouTube 频道也被迫「关闭」。
 
-如果你觉得视频太长了，那么以下还提供简要文字版（二选一即可，内容都一样）：
+如果你觉得视频太长了，那么以下还提供简要文字版：
 * Google Drive 托管的 PPT 版本：https://drive.google.com/file/d/1_1OI_9bzHRih-YtDfPepmHDzlEJEQSrQ/view
-* Github 托管的 PDF 版本：[郭文贵简介3.3.pdf](./郭文贵简介3.3.pdf)  
+* 引用来源：https://twitter.com/tuiqiandang/status/1074130252354502656
 
-> 文字版来源：https://twitter.com/tuiqiandang/status/1074130252354502656
+同时还提供爆料大事件的部分汇总：
+* Google Docs 表格：https://docs.google.com/spreadsheets/d/1uAH4_-NcoQGy5FS1wocT19nqK9uLvl3ai6i8BFN-gVU
+* 引用来源：https://twitter.com/tuiqiandang/status/983374527395762178
 
 ## § 温馨提示
 
