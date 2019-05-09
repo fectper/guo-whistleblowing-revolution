@@ -127,6 +127,7 @@ https://livestream.com/accounts/27235681
 * PPC News https://www.youtube.com/channel/UChSjQqIBCC1dxmufYo_d4aw
 * 北京姑娘聊天室 https://www.youtube.com/channel/UCOirMCtvj9hqt2QC9GUL-LA
 * 喜马拉雅工作站 https://www.youtube.com/channel/UCIfGGtdKsxeZarUzW4XhW3A
+* 美东之声 https://www.youtube.com/channel/UCl5taPPgm-Ldfw_31864b7w
 * 好奇的蚂蚁
   * https://www.youtube.com/channel/UC1Pqg0BJoPijWFM4Z8555mA
   * https://www.youtube.com/channel/UCXzjnbuSksU4_Pnop7Z5cRw
@@ -162,6 +163,8 @@ https://livestream.com/accounts/27235681
 * 顽童小哥 https://twitter.com/Wesleywg87
 * 北京姑娘聊天室 https://twitter.com/zvBjV0X0FF8P56y
 * 喜马拉雅国际工作站 https://twitter.com/HGW45599518
+* 庄烈宏 https://twitter.com/kiddjoneke
+* 美东之声 https://twitter.com/meidongzhisheng
 * 好奇的蚂蚁03 https://twitter.com/CuriousAnt003
 * 汉字小哥 https://twitter.com/HZAD2018
 * 贵友 https://twitter.com/Wenai13
