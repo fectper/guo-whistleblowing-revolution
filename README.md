@@ -128,6 +128,7 @@ https://livestream.com/accounts/27235681
 * 北京姑娘聊天室 https://www.youtube.com/channel/UCOirMCtvj9hqt2QC9GUL-LA
 * 喜马拉雅工作站 https://www.youtube.com/channel/UCIfGGtdKsxeZarUzW4XhW3A
 * 美东之声 https://www.youtube.com/channel/UCl5taPPgm-Ldfw_31864b7w
+* 华夏小哥 https://www.youtube.com/channel/UCC-_4TWfSetG-s-3vaHqvKg
 * 好奇的蚂蚁
   * https://www.youtube.com/channel/UC1Pqg0BJoPijWFM4Z8555mA
   * https://www.youtube.com/channel/UCXzjnbuSksU4_Pnop7Z5cRw
@@ -165,6 +166,7 @@ https://livestream.com/accounts/27235681
 * 喜马拉雅国际工作站 https://twitter.com/HGW45599518
 * 庄烈宏 https://twitter.com/kiddjoneke
 * 美东之声 https://twitter.com/meidongzhisheng
+* 华夏小哥 https://twitter.com/Huaxia_yixiao
 * 好奇的蚂蚁03 https://twitter.com/CuriousAnt003
 * 汉字小哥 https://twitter.com/HZAD2018
 * 贵友 https://twitter.com/Wenai13
