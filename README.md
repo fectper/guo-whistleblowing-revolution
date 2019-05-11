@@ -38,6 +38,10 @@
 * Google Docs 表格：https://docs.google.com/spreadsheets/d/1uAH4_-NcoQGy5FS1wocT19nqK9uLvl3ai6i8BFN-gVU
 * 引用来源：https://twitter.com/tuiqiandang/status/983374527395762178
 
+当然别忘了还有维基百科：
+* https://zh.wikipedia.org/wiki/郭文贵
+
+
 ## § 温馨提示
 
 * 表面挺郭的「战友」未必都是真正挺郭，老共最擅长的就是浑水摸鱼，掺沙子。  
