@@ -1,4 +1,4 @@
-![Cover](./guomedia_cover.jpg)
+![Cover](https://user-images.githubusercontent.com/50340313/57851300-bc252f80-77cf-11e9-987a-337116f5dc20.png)
 
 # 郭文贵爆料革命 · 启蒙开智入门指南 ✊✊✊
 
