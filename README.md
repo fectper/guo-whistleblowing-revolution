@@ -35,9 +35,13 @@
 * 引用来源：https://twitter.com/tuiqiandang/status/1074130252354502656
 * 视频解说：https://www.youtube.com/watch?v=nB9jTM64nJ0
 
-同时还提供爆料大事件的部分汇总：
-* Google Docs 表格：https://docs.google.com/spreadsheets/d/1uAH4_-NcoQGy5FS1wocT19nqK9uLvl3ai6i8BFN-gVU
-* 引用来源：https://twitter.com/tuiqiandang/status/983374527395762178
+其他资料：
+* 爆料大事件部分汇总：
+  * https://docs.google.com/spreadsheets/d/1uAH4_-NcoQGy5FS1wocT19nqK9uLvl3ai6i8BFN-gVU
+  * 引用来源：https://twitter.com/tuiqiandang/status/983374527395762178
+* 海航帝国败亡录：
+  * https://drive.google.com/file/d/1Qawhu5a3fzlSlBod7r-D1aaKxIGyPKL9
+  * 引用来源：https://twitter.com/tuiqiandang/status/1129565908979068928
 
 当然别忘了还有维基百科：
 * https://zh.wikipedia.org/wiki/郭文贵
