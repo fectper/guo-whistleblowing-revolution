@@ -125,7 +125,8 @@ https://livestream.com/accounts/27235681
 * 大卫小哥：前中共情报人员，深谙「一带一路」能源线及金融，配合郭爆料精准打击  
   https://www.youtube.com/channel/UCq5haQKrVHnCQ84YmyBn4KA
 * Inty：搞 IT 的新疆小伙，用程序员的思维传播爆料革命  
-  https://www.youtube.com/channel/UCA3-DEkClR3G1DG1cq8YbeQ
+  * https://www.youtube.com/channel/UCA3-DEkClR3G1DG1cq8YbeQ
+  * https://www.youtube.com/channel/UCLRb-MUKSK75ItiP068OtTQ
 * 全民挺郭联盟 https://www.youtube.com/channel/UCEknAh39C8DTIllB5y8Fe-A
 * 澳洲新声 https://www.youtube.com/channel/UC66D8Bl3TeNTgyUAG-mcwHg
 * 凤凰九天 https://www.youtube.com/channel/UCa0CK8yYiIRZzIyPm6nocNg
