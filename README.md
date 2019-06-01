@@ -153,7 +153,8 @@ https://livestream.com/accounts/27235681
 
 ### ¶ 对应上述 YouTube 频道的 Twitter
 > 战友千千万，几乎不太可能列举得完，因此只能列举出战友圈的部分「入口」。  
-> 请通过以下用户的（被）关注者，及推文下的转发/点赞/评论者，裂变式扩大资讯面。
+> 请通过以下用户的（被）关注者，及推文下的转发/点赞/评论者，裂变式扩大资讯面。  
+> **2019.05.31 重磅：推特的大规模封号导致以下绝大多数链接失效，最新的请到 [ourhimalayas/txt#9](https://github.com/ourhimalayas/txt/issues/9)。**
 
 * 路德 https://twitter.com/ding_gang
 * Sara https://twitter.com/sarawei3
