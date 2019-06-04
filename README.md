@@ -18,11 +18,11 @@
 
 个人认为，最好的入门是政事小哥的「一起来跨年:回顾郭文贵爆料革命2018年特别节目」：
 
-* https://www.youtube.com/watch?v=O7wh0t0C4f4
+* https://youtu.be/O7wh0t0C4f4?t=284
 
 若上述原视频被删除了，那么你还是可以在「战友之声」频道找到备份：
 
-* https://www.youtube.com/watch?v=_xvE8aVTc1E
+* https://youtu.be/_xvE8aVTc1E?t=273
 
 视频时长四个多小时，足以让你快速了解这两年多以来究竟发生了什么。  
 （可调节 1.5x / 2x 播放速度以节省观看时间）
@@ -145,7 +145,6 @@ https://livestream.com/accounts/27235681
 * 好奇的蚂蚁
   * https://www.youtube.com/channel/UC1Pqg0BJoPijWFM4Z8555mA
   * https://www.youtube.com/channel/UCXzjnbuSksU4_Pnop7Z5cRw
-* 汉字小哥 https://www.youtube.com/channel/UCeCZwXqDZNMdBFZBJsHLFrw
 * 贵友社 https://www.youtube.com/channel/UCfyG74GV62goE0GG0VkhAgA
 * ChinaQly中文Q圈 https://www.youtube.com/channel/UCDWi7iBJn7i0JCKbcVQSwpA
 * 有关经济方面比较中肯的频道：
@@ -162,6 +161,7 @@ https://livestream.com/accounts/27235681
 * 战友之声 https://twitter.com/XMY2018
 * 政事小哥 https://twitter.com/zszb_xiaoge
 * 细思小哥 https://twitter.com/xiteller
+* 大卫 https://twitter.com/David90582574
 * Inty https://twitter.com/IntyPython
 * 全民挺郭联盟 https://twitter.com/redwallpusher
 * 澳洲新声 https://twitter.com/qiu17190991
@@ -183,7 +183,6 @@ https://livestream.com/accounts/27235681
 * 瑞安平 https://twitter.com/PingSereanRyan
 * 华夏小哥 https://twitter.com/Huaxia_yixiao
 * 好奇的蚂蚁03 https://twitter.com/CuriousAnt003
-* 汉字小哥 https://twitter.com/HZAD2018
 * 贵友 https://twitter.com/Wenai13
 * 财经真相 https://twitter.com/caijingxiang
 
